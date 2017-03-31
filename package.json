@@ -1,0 +1,22 @@
+{
+  "name": "node-express-sample",
+  "version": "1.0.0",
+  "description": "sample of express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simorgh3196/node-express-sample.git"
+  },
+  "author": "simorgh3196",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simorgh3196/node-express-sample/issues"
+  },
+  "homepage": "https://github.com/simorgh3196/node-express-sample#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
